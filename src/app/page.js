@@ -51,7 +51,7 @@ export default function FoodReviewPage() {
         mt="md"
       ></Pagination>
       <Text align="center" color="dimmed" my="sm">
-        Copyright © 2023 suwichada pongkanmoon 630610657
+        Copyright © 2023 Suwichada pongkanmoon 630610657
       </Text>
     </Container>
   );
